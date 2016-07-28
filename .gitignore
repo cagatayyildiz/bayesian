@@ -1,3 +1,8 @@
 tutorials/
 data/
+tex/
 .ipynb_checkpoints/
+*.sh
+*.tex
+Sufficient.pdf
+
