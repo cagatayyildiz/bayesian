@@ -4,5 +4,7 @@ tex/
 .ipynb_checkpoints/
 *.sh
 *.tex
-Sufficient.pdf
+pdf/
+etc/matrices
+Bayesian_Change_Point_Model_files/*
 
